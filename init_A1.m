@@ -1,5 +1,5 @@
 % NEW COMMENT 
-% NEW COMMENT 2
+% change this comment
 f=0;
 s=1;
 close all
